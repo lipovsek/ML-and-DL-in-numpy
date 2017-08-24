@@ -1,5 +1,5 @@
 # I was first writing code along with the one from neuralnetworksanddeeplearning.com
-# and then decided to rite it on my own :)
+# and then decided to write it on my own :)
 
 
 import numpy as np
